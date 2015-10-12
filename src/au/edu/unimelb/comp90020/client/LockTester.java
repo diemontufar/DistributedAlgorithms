@@ -7,7 +7,7 @@ import au.edu.unimelb.comp90020.net.MsgHandler;
 import au.edu.unimelb.comp90020.util.Util;
 
 /*
- * This is the main client 123
+ * This is the main client
  */
 public class LockTester {
 	
